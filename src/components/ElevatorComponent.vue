@@ -55,5 +55,5 @@ onMounted(() => {
 </script>
 
 <style lang="scss" scoped>
- @use '@/assets/styles/components/ElevatoComponentStyle.scss';
+ @use '@/assets/styles/components/ElevatorComponentStyle.scss';
 </style>
