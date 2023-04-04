@@ -1,0 +1,21 @@
+.floor {
+  width: 100%;
+  height: 150px;
+  border-bottom: 2px solid black;
+  padding-left: 10px;
+  padding-top: 10px;
+  .call-elevator-container{
+    margin-top: 10px;
+    .call-elevator-button{
+      background-color: green;
+      width: 20px;
+      height: 20px;
+      border-radius: 10px;
+      transition: background-color .25s linear;
+
+      &-disable {
+        background-color: red;
+      }
+    }
+  }
+}
