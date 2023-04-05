@@ -9,7 +9,7 @@
 <script setup lang="ts">
 import FloorComponent from '@/components/FloorComponent.vue';
 
-const floors = 7;
+const floors = 5;
 
 </script>
 
